@@ -71,6 +71,12 @@ For a signed release build, create `android/key.properties` (see `android/app/bu
 - **UI:** Flutter, Riverpod for state management, Hive for local storage
 - **Android native:** Kotlin — a `Foreground Service` for the wakelock/timer, `TileService` for the Quick Settings tile, `UsageStatsManager` for app-specific detection, `MethodChannel`/`EventChannel` to bridge Flutter and native code
 
+## Known issues
+
+- App-specific wakelock may not detect the foreground app reliably on some
+  devices due to aggressive battery management. Make sure Usage
+  Access and "unmonitored app" battery settings are enabled for Caffeine.
+  
 ## Contributing
 
 Issues and pull requests are welcome. Please keep new code and comments in English.
