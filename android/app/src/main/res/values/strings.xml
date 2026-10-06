@@ -1,0 +1,21 @@
+<resources>
+    <string name="notification_channel_name">Screen Awake</string>
+    <string name="notification_title">Caffeine active</string>
+    <string name="notification_active_indefinite">Screen is being kept awake indefinitely</string>
+    <string name="notification_time_remaining">Time remaining: %s</string>
+    <string name="notification_watching">Watching %d selected app(s)</string>
+    <string name="notification_app_bound_active">Selected app is active — keeping screen on</string>
+    <string name="stop">Stop</string>
+
+    <string name="tile_label">Caffeine</string>
+    <string name="tile_subtitle_on">On</string>
+    <string name="tile_subtitle_timing">Timing</string>
+
+    <string name="dialog_title">Keep screen on for</string>
+    <string name="duration_5">5m</string>
+    <string name="duration_10">10m</string>
+    <string name="duration_15">15m</string>
+    <string name="duration_30">30m</string>
+    <string name="duration_indefinite">Indefinite</string>
+    <string name="notification_active_timed">Screen is being kept awake</string>
+</resources>

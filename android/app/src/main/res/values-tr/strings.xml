@@ -1,0 +1,21 @@
+<resources>
+    <string name="notification_channel_name">Ekran Açık Tutma</string>
+    <string name="notification_title">Caffeine aktif</string>
+    <string name="notification_active_indefinite">Ekran sınırsız açık tutuluyor</string>
+    <string name="notification_time_remaining">Kalan süre: %s</string>
+    <string name="notification_watching">%d uygulama izleniyor</string>
+    <string name="notification_app_bound_active">Seçili uygulama aktif — ekran açık tutuluyor</string>
+    <string name="stop">Durdur</string>
+
+    <string name="tile_label">Caffeine</string>
+    <string name="tile_subtitle_on">Açık</string>
+    <string name="tile_subtitle_timing">Sayıyor</string>
+
+    <string name="dialog_title">Ekranı şu süre açık tut</string>
+    <string name="duration_5">5dk</string>
+    <string name="duration_10">10dk</string>
+    <string name="duration_15">15dk</string>
+    <string name="duration_30">30dk</string>
+    <string name="duration_indefinite">Sınırsız</string>
+    <string name="notification_active_timed">Ekran açık tutuluyor</string>
+</resources>

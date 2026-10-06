@@ -1,0 +1,65 @@
+{
+  "@@locale": "tr",
+  "appTitle": "Caffeine",
+
+  "quickDurations": "Hızlı süreler",
+  "indefinite": "Sınırsız",
+  "customDuration": "Özel süre",
+  "hours": "Saat",
+  "minutes": "Dakika",
+  "seconds": "Saniye",
+  "start": "Başlat",
+  "cancel": "Vazgeç",
+
+  "myPresets": "Hazır ayarlarım",
+  "noPresetsYet": "Henüz kayıtlı ayar yok. Özel bir süre belirleyerek oluşturabilirsin.",
+  "deletePreset": "Sil",
+
+  "screenAwakeActive": "Ekran açık tutuluyor",
+  "activeIndefinite": "Ekran sınırsız açık tutuluyor",
+  "timeRemaining": "Kalan süre: {time}",
+  "@timeRemaining": {
+    "placeholders": { "time": { "type": "String" } }
+  },
+  "stop": "Durdur",
+
+  "appSpecificWakelock": "Uygulama bazlı wakelock",
+  "selectApps": "Uygulama seç",
+  "noAppsFound": "Uygulama bulunamadı",
+  "appWatchDurationOptional": "Süre",
+  "appWatchDurationDescription": "Bir uygulamanın saat simgesine dokunarak, o uygulama ön plandayken ekranın ne kadar süre açık kalacağını ayarlayabilirsin. Sınırsız bırakırsan, uygulama açık kaldığı sürece ekran açık kalır.",
+  "startWatching": "İzlemeyi başlat",
+  "stopWatching": "İzlemeyi durdur",
+  "watchingActiveApp": "Seçili uygulama aktif — ekran açık",
+  "watchingIdle": "Seçili bir uygulamanın açılması bekleniyor",
+
+  "usageAccessRequired": "Kullanım erişimi izni gerekli",
+  "usageAccessExplanation": "Seçtiğiniz uygulamaların ön planda olduğunu algılayabilmek için Caffeine'in Kullanım Erişimi iznine ihtiyacı var. Bu veri cihazınızdan asla dışarı çıkmaz.",
+  "grantPermission": "İzin ver",
+
+  "batteryOptimizationTitle": "Pil optimizasyonu",
+  "batteryOptimizationExplanation": "Zamanlayıcıların arka planda güvenilir çalışması için Caffeine'in pil optimizasyonunu yok saymasına izin verin.",
+  "allow": "İzin ver",
+  "skip": "Atla",
+
+  "overlayPermissionTitle": "Diğer uygulamaların üzerinde göster",
+  "overlayPermissionExplanation": "Caffeine bu izni yalnızca ekranı güvenilir şekilde açık tutmak için kullanır — başka hiçbir uygulamanın üzerine hiçbir içerik çizilmez. Modern Android'de ekranın kapanmasını engellemenin en güvenilir yolu budur.",
+
+  "settingsTitle": "Ayarlar",
+  "language": "Dil",
+  "english": "İngilizce",
+  "turkish": "Türkçe",
+  "defaultTileDuration": "Varsayılan hızlı kutu süresi",
+  "defaultTileDurationDescription": "Bu süre, Caffeine hızlı ayarlar kutusuna dokunduğunuzda başlar.",
+
+  "permissionsSectionTitle": "İzinler",
+  "notificationPermission": "Bildirimler",
+  "overlayPermission": "Diğer uygulamaların üzerinde göster",
+  "granted": "Verildi",
+  "notGranted": "Verilmedi",
+  "grant": "Ver",
+
+  "navHome": "Ana sayfa",
+  "navAppWatch": "Uygulama izleme",
+  "navSettings": "Ayarlar"
+}

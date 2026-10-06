@@ -1,0 +1,9 @@
+Caffeine keeps your screen on for a set time, indefinitely, or automatically
+while a chosen app is in the foreground.
+
+Features:
+- Quick durations (5/10/15/30 min) or indefinite
+- Custom duration with saved presets
+- Quick Settings Tile with long-press preset picker
+- Per-app wakelock (e.g. keep the screen on only while your e-reader is open)
+- No ads, no analytics, no tracking

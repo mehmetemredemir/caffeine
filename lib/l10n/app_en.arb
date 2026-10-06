@@ -1,0 +1,65 @@
+{
+  "@@locale": "en",
+  "appTitle": "Caffeine",
+
+  "quickDurations": "Quick durations",
+  "indefinite": "Indefinite",
+  "customDuration": "Custom duration",
+  "hours": "Hours",
+  "minutes": "Minutes",
+  "seconds": "Seconds",
+  "start": "Start",
+  "cancel": "Cancel",
+
+  "myPresets": "My presets",
+  "noPresetsYet": "No saved presets yet. Set a custom duration to create one.",
+  "deletePreset": "Delete",
+
+  "screenAwakeActive": "Screen is being kept awake",
+  "activeIndefinite": "Keeping the screen awake indefinitely",
+  "timeRemaining": "Time remaining: {time}",
+  "@timeRemaining": {
+    "placeholders": { "time": { "type": "String" } }
+  },
+  "stop": "Stop",
+
+  "appSpecificWakelock": "App-specific wakelock",
+  "selectApps": "Select apps",
+  "noAppsFound": "No apps found",
+  "appWatchDurationOptional": "Duration",
+  "appWatchDurationDescription": "Tap an app's clock icon to set how long the screen should stay on while that app is in the foreground. Leave it as Indefinite to keep the screen on for as long as the app stays open.",
+  "startWatching": "Start watching",
+  "stopWatching": "Stop watching",
+  "watchingActiveApp": "Selected app is active — screen is on",
+  "watchingIdle": "Waiting for a selected app to open",
+
+  "usageAccessRequired": "Usage access permission required",
+  "usageAccessExplanation": "To detect when the selected apps are in the foreground, Caffeine needs Usage Access permission. This data never leaves your device.",
+  "grantPermission": "Grant permission",
+
+  "batteryOptimizationTitle": "Battery optimization",
+  "batteryOptimizationExplanation": "For timers to run reliably in the background, please allow Caffeine to ignore battery optimizations.",
+  "allow": "Allow",
+  "skip": "Skip",
+
+  "overlayPermissionTitle": "Display over other apps",
+  "overlayPermissionExplanation": "Caffeine uses this permission only to reliably keep the screen on — no content is ever drawn on top of other apps. This is the most reliable way to prevent the screen from turning off on modern Android.",
+
+  "settingsTitle": "Settings",
+  "language": "Language",
+  "english": "English",
+  "turkish": "Turkish",
+  "defaultTileDuration": "Default quick tile duration",
+  "defaultTileDurationDescription": "This duration starts when you tap the Caffeine quick settings tile.",
+
+  "permissionsSectionTitle": "Permissions",
+  "notificationPermission": "Notifications",
+  "overlayPermission": "Display over other apps",
+  "granted": "Granted",
+  "notGranted": "Not granted",
+  "grant": "Grant",
+
+  "navHome": "Home",
+  "navAppWatch": "App watch",
+  "navSettings": "Settings"
+}
